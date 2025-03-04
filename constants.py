@@ -47,7 +47,7 @@ REPEAT_BALL = set([
 ])
 
 # Owner and Bot Information
-OWNER_NAME = "Enryu"
+OWNER_NAME = "Ankit"
 BOT_VERSION = "1.0"
 
 # Commands
